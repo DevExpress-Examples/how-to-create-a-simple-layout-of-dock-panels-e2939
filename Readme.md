@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/SimpleDockingApplication/MainPage.xaml) (VB: [MainPage.xaml](./VB/SimpleDockingApplication/MainPage.xaml))
+<!-- default file list end -->
 # How to create a simple layout of dock panels
 
 
